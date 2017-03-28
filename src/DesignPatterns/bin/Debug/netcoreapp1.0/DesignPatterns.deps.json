@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.0": {
-      "DesignPatterns/1.0.0": {
+      "designpatterns/1.0.0": {
         "runtime": {
           "DesignPatterns.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "DesignPatterns/1.0.0": {
+    "designpatterns/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
