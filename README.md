@@ -1,1 +1,1 @@
-# DesignPatterns
+# w3school-design-pattern-tutorial-csharp-version/details
