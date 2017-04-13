@@ -1,0 +1,9 @@
+D:\Design-Pattern\DesignPatterns\src\SingletonPatternDemo\bin\Debug\netcoreapp1.0\SingletonPatternDemo.deps.json
+D:\Design-Pattern\DesignPatterns\src\SingletonPatternDemo\bin\Debug\netcoreapp1.0\SingletonPatternDemo.runtimeconfig.json
+D:\Design-Pattern\DesignPatterns\src\SingletonPatternDemo\bin\Debug\netcoreapp1.0\SingletonPatternDemo.runtimeconfig.dev.json
+D:\Design-Pattern\DesignPatterns\src\SingletonPatternDemo\bin\Debug\netcoreapp1.0\SingletonPatternDemo.dll
+D:\Design-Pattern\DesignPatterns\src\SingletonPatternDemo\bin\Debug\netcoreapp1.0\SingletonPatternDemo.pdb
+D:\Design-Pattern\DesignPatterns\src\SingletonPatternDemo\obj\Debug\netcoreapp1.0\SingletonPatternDemo.csprojResolveAssemblyReference.cache
+D:\Design-Pattern\DesignPatterns\src\SingletonPatternDemo\obj\Debug\netcoreapp1.0\SingletonPatternDemo.AssemblyInfo.cs
+D:\Design-Pattern\DesignPatterns\src\SingletonPatternDemo\obj\Debug\netcoreapp1.0\SingletonPatternDemo.dll
+D:\Design-Pattern\DesignPatterns\src\SingletonPatternDemo\obj\Debug\netcoreapp1.0\SingletonPatternDemo.pdb
