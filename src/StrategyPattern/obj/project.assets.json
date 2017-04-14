@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Design-Pattern\\DesignPatterns\\src\\DecoratorPattern\\DecoratorPattern.csproj",
-      "projectName": "DecoratorPattern",
-      "projectPath": "D:\\Design-Pattern\\DesignPatterns\\src\\DecoratorPattern\\DecoratorPattern.csproj",
-      "outputPath": "D:\\Design-Pattern\\DesignPatterns\\src\\DecoratorPattern\\obj\\",
+      "projectUniqueName": "D:\\Design-Pattern\\DesignPatterns\\src\\StrategyPattern\\StrategyPattern.csproj",
+      "projectName": "StrategyPattern",
+      "projectPath": "D:\\Design-Pattern\\DesignPatterns\\src\\StrategyPattern\\StrategyPattern.csproj",
+      "outputPath": "D:\\Design-Pattern\\DesignPatterns\\src\\StrategyPattern\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
