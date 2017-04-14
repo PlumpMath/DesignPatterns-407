@@ -20,8 +20,6 @@ namespace BuilderPatternDemo
             Console.WriteLine("\n\nNon-Veg Meal");
             nonVegMeal.ShowItems();
             Console.WriteLine("Total Cost: " + nonVegMeal.GetCost());
-
-            Console.ReadKey();
         }
     }
 }

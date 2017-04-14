@@ -21,8 +21,6 @@ public static void Main(string[] args)
     abstractFactory=new ThirdChestFactory();
     abstractFactory.CreateCoat().Print();
     abstractFactory.CreateTrouser().Print();
-
-    Console.ReadKey();
 }
     }
 }
