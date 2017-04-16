@@ -6,3 +6,4 @@ D:\Design-Pattern\DesignPatterns\src\StrategyPattern\bin\Debug\netcoreapp1.1\Str
 D:\Design-Pattern\DesignPatterns\src\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.AssemblyInfo.cs
 D:\Design-Pattern\DesignPatterns\src\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.dll
 D:\Design-Pattern\DesignPatterns\src\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.pdb
+D:\Design-Pattern\DesignPatterns\src\StrategyPattern\obj\Debug\netcoreapp1.1\StrategyPattern.csprojResolveAssemblyReference.cache

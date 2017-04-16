@@ -1,0 +1,9 @@
+D:\Design-Pattern\DesignPatterns\src\CriteriaPattern\bin\Debug\netcoreapp1.1\CriteriaPattern.deps.json
+D:\Design-Pattern\DesignPatterns\src\CriteriaPattern\bin\Debug\netcoreapp1.1\CriteriaPattern.runtimeconfig.json
+D:\Design-Pattern\DesignPatterns\src\CriteriaPattern\bin\Debug\netcoreapp1.1\CriteriaPattern.runtimeconfig.dev.json
+D:\Design-Pattern\DesignPatterns\src\CriteriaPattern\bin\Debug\netcoreapp1.1\CriteriaPattern.dll
+D:\Design-Pattern\DesignPatterns\src\CriteriaPattern\bin\Debug\netcoreapp1.1\CriteriaPattern.pdb
+D:\Design-Pattern\DesignPatterns\src\CriteriaPattern\obj\Debug\netcoreapp1.1\CriteriaPattern.csprojResolveAssemblyReference.cache
+D:\Design-Pattern\DesignPatterns\src\CriteriaPattern\obj\Debug\netcoreapp1.1\CriteriaPattern.AssemblyInfo.cs
+D:\Design-Pattern\DesignPatterns\src\CriteriaPattern\obj\Debug\netcoreapp1.1\CriteriaPattern.dll
+D:\Design-Pattern\DesignPatterns\src\CriteriaPattern\obj\Debug\netcoreapp1.1\CriteriaPattern.pdb
